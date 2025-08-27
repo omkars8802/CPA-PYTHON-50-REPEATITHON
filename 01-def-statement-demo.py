@@ -218,7 +218,10 @@ DisplayBirthdayWishes(PersonName = 'Farhan')
 def DisplayBirthdaWishes(personName):
     print('Happy Birthday')
     print(personName, '!')
-    
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+
 
 
 
