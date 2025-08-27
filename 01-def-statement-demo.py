@@ -215,12 +215,144 @@ DisplayBirthdayWishes(personName = 'Rancho')
 DisplayBirthdayWishes(personName = 'Raju')
 DisplayBirthdayWishes(PersonName = 'Farhan')
 
-def DisplayBirthdaWishes(personName):
+def DisplayBirthdayWishes(personName):
     print('Happy Birthday')
     print(personName, '!')
 
 DisplayBirthdayWishes('Rancho')
 DisplayBirthdayWishes('Raju')
+DiplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName= 'Farhan')
+
+def DisplayBirthdayWishes(PersonName = 'Rancho'):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy birthday')
+    print(personName, '!')
+
+DiplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy Birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWIshes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    Print('Happy Birthday')
+    Print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+def DisplayBirthdayWishes(personName):
+    print('Happy birthday')
+    print(personName, '!')
+
+DisplayBirthdayWishes('Rancho')
+DisplayBirthdayWishes('Raju')
+DisplayBirthdayWishes('Farhan')
+
+DisplayBirthdayWishes(personName = 'Rancho')
+DisplayBirthdayWishes(personName = 'Raju')
+DisplayBirthdayWishes(personName = 'Farhan')
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
 
 
 
